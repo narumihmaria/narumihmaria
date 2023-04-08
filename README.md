@@ -1,6 +1,6 @@
 ### Hi there! 
 
-- 🌱 Software Developer in progress
+- 🌱 i'm currently programming student
 - 📫 How to reach me: mariaeduardaribeiro_@live.com
 
 
