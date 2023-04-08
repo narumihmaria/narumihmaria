@@ -1,6 +1,6 @@
 ### Hi there! 
 
-- 🌱 I’m currently learning programming logic
+- 🌱 Software Developer in progress
 - 📫 How to reach me: mariaeduardaribeiro_@live.com
 
 
