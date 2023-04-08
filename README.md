@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning programming logic
 - 📫 How to reach me: mariaeduardaribeiro_@live.com
-- 😄 Pronouns: she/her
+
 
 <div> 
    <a href="https://www.instagram.com/xmariaribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
