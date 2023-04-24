@@ -1,6 +1,7 @@
-### Hi there! 
+### Hi there! ✨ 
 
-- 🌱 i'm currently programming student
+- 🌱 Currently studying Software Development
+- 👩🏼‍💻 Technician in Human Resources Management
 - 📫 How to reach me: mariaeduardaribeiro_@live.com
 
 
