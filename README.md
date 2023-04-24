@@ -1,8 +1,8 @@
 ### Hi there! ✨ 
 
-- 🌱 Currently studying Software Development
-- 👩🏼‍💻 Technician in Human Resources Management
-- 📫 How to reach me: mariaeduardaribeiro_@live.com
+- Currently studying Software Development
+- Technician in Human Resources Management
+- How to reach me: mariaeduardaribeiro_@live.com
 
 
 <div> 
