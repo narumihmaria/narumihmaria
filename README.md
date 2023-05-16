@@ -1,7 +1,7 @@
-### Hi there! ✨ 
+### Hello there! ✨ 
 
-- Currently studying Software Development
-- Technician in Human Resources Management
+- Software Development Student at [Serratec](https://github.com/Serratec)  
+- HR Manager 
 - How to reach me: mariaeduardaribeiro_@live.com
 
 
