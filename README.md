@@ -4,15 +4,7 @@
 - HR Manager 
 - How to reach me: mxmariaeduardaribeiro@gmail.com
 
-<div align="center">
-  <a href="https://github.com/Boyce22">
-    <img align="center" min-width="450px" max-width="450px" width="430px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyce22&layout=compact&langs_count=7&theme=rose_pine" />
-    <img align="center" min-width="450px" max-width="450px" width="430px" height="200px" src="https://github-readme-stats.vercel.app/api?username=xmariaeduardaribeiro&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false" />
-  </a>
-</div>
-
-  
-  ![snake gif](https://github.com/Boyce22/Boyce22/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Boyce22/Boyce22/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <p align="center">
