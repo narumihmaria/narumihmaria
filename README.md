@@ -4,20 +4,34 @@
 - HR Manager 
 - How to reach me: mxmariaeduardaribeiro@gmail.com
 
-
-<div> <h1>
-   <a href="https://www.instagram.com/xmariaeduardaribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@430875300235182083" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/xmariaribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </h1>
-   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-
-   
+<div align="center">
+  <a href="https://github.com/Boyce22">
+    <img align="center" min-width="450px" max-width="450px" width="430px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyce22&layout=compact&langs_count=7&theme=rose_pine" />
+    <img align="center" min-width="450px" max-width="450px" width="430px" height="200px" src="https://github-readme-stats.vercel.app/api?username=xmariaeduardaribeiro&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=false" />
+  </a>
 </div>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=xmariaeduardaribeiro&show_icons=true&theme=radical" alt="xmariaeduardaribeiro" 
-<p> <img src="https://camo.githubusercontent.com/12b95d3ae9903f1e0c6c8797c49cfaeb23a2404792f808cbba9e40ea11bb5261/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d626f756265656a756c266c61796f75743d636f6d70616374267468656d653d6f6d6e69" /></p>           
- 
+  
+  ![snake gif](https://github.com/Boyce22/Boyce22/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <p align="center">
+    <img align="center" alt="Boyce.HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML 5
+    <img align="center" alt="Boyce.CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
+    <img align="center" alt="Boyce.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> JavaScript
+    <img align="center" alt="Boyce.React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
+    <img align="center" alt="Boyce.ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React Native
+  </p>
+  <p align="center">
+    <img align="center" alt="Boyce.Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
+    <img align="center" alt="Boyce.Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js
+    <img align="center" alt="Boyce.Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+MySQL     
+  <img align="center" alt="Boyce.Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  Java                                                                                                                                              
+
+  </p>
+</div>
+   
 
 
 
