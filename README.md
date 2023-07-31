@@ -1,6 +1,6 @@
 ### Hello there! ✨ 
 
-- Software Development Student at [Serratec](https://github.com/Serratec) - Parque Tecnológico da Região Serrana
+- Full Stack Developer Jr at [Serratec](https://github.com/Serratec) - Parque Tecnológico da Região Serrana
 - HR Manager 
 - How to reach me: mxmariaeduardaribeiro@gmail.com
 
