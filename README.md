@@ -1,7 +1,8 @@
 ### Hello there! ✨ 
 
 - Junior Full Stack Developer at [Serratec](https://github.com/Serratec) - Parque Tecnológico da Região Serrana
-- HR Manager
+- Planning and Project Management
+- HR and Tech Recruiter
 - Quality Analyst
 - How to reach me: xmariaeduardaribeiro@gmail.com
 
