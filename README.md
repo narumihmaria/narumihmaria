@@ -4,6 +4,7 @@
 - Planning and Project Management
 - HR and Tech Recruiter
 - Quality Analyst
+- PO/SM
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nodejs,androidstudio,java,spring,mysql,postgres" />
