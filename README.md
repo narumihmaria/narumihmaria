@@ -1,6 +1,6 @@
 ### Hello there! ✨ 
 
-- Junior Full Stack Developer at [Serratec](https://github.com/Serratec) - Parque Tecnológico da Região Serrana
+- Full Stack Developer at [Serratec](https://github.com/Serratec) - Parque Tecnológico da Região Serrana
 - Planning and Project Management
 - HR and Tech Recruiter
 - Quality Analyst
