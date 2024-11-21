@@ -3,7 +3,7 @@
 - Full Stack Developer at [Serratec](https://github.com/Serratec) - Parque Tecnológico da Região Serrana
 - Planning and Project Management
 - HR and Tech Recruiter
-- Quality Analyst
+- Quality Assurance 
 - PO/SM
 
 <div align="center">
